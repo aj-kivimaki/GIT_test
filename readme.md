@@ -16,3 +16,6 @@ THIS IS A CHANGE
 
 - do the changes locally not remotely and push to github
 - you can force push and override everything in github
+
+
+PULL this before continuing
