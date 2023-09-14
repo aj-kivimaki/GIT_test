@@ -7,3 +7,5 @@
 - Make cheanges on the local repositroy and then push it to the remote repository
 - Solve merge conflict
 - Update the readme file with instructions how to avoid merge conflicts and how to solve it
+
+THIS IS A CHANGE
