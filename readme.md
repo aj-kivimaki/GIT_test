@@ -10,12 +10,8 @@
 - Solve merge conflict
 - Update the readme file with instructions how to avoid merge conflicts and how to solve it
 
-THIS IS A CHANGE
-
 # How to avoid merge conflicts and how to solve it
 
 - do the changes locally not remotely and push to github
 - you can force push and override everything in github
-
-
-PULL this before continuing
+- always pull the code from the github when you start
