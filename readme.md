@@ -14,5 +14,5 @@ THIS IS A CHANGE
 
 # How to avoid merge conflicts and how to solve it
 
-- first integrate the remote changes, hint: (e.g., 'git pull ...') before pushing again
-- git pull REMOTE-NAME BRANCH-NAME
+- do the changes locally not remotely and push to github
+- you can force push and override everything in github
