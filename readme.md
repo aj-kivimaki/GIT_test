@@ -1,3 +1,5 @@
+# GIT Test
+
 - Create a new GH repository for testing
 - Create local repository fo testing
 - In readme file write down all steps you do for this task
@@ -9,3 +11,8 @@
 - Update the readme file with instructions how to avoid merge conflicts and how to solve it
 
 THIS IS A CHANGE
+
+# How to avoid merge conflicts and how to solve it
+
+- first integrate the remote changes, hint: (e.g., 'git pull ...') before pushing again
+- git pull REMOTE-NAME BRANCH-NAME
