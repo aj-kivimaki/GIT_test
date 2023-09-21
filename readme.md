@@ -15,3 +15,5 @@
 - do the changes locally not remotely and push to github
 - you can force push and override everything in github
 - always pull the code from the github when you start
+
+- added content
